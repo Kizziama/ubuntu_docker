@@ -29,7 +29,7 @@ sudo apt-get install -y \
     brotli bzip2 ca-certificates cpio expect help2man jq libelf-dev libgomp1-* \
     liblz4-tool libstdc++6 libtool-bin m4 make nano openjdk-17-jdk openssh-client \
     ovmf shtool sshpass u-boot-tools xz-utils zstd tmate locales default-jdk apktool \
-    libarchive-tools
+    libarchive-tools zram-tools
 msg "[✓] Install required packages successfully!"
 
 msg "[#] Setup a locales!"
